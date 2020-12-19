@@ -8,5 +8,10 @@
     "name": "w2",
     "public": false,
     "url": "https://workshops.hackclub.com/preview/main/rick_roll/"
+  },
+  {
+    "name": "w2-key",
+    "public": false,
+    "url": "https://gist.githubusercontent.com/sampoder/172219e10d4cad0d03af503ecd593aac/raw/dc03172552e62d1380996d977873a0160313aae5/private.key"
   }
 ]
