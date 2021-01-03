@@ -13,5 +13,15 @@
     "name": "w2-key",
     "public": false,
     "url": "https://gist.githubusercontent.com/sampoder/172219e10d4cad0d03af503ecd593aac/raw/dc03172552e62d1380996d977873a0160313aae5/private.key"
+  },
+  {
+    "name": "night",
+    "public": false,
+    "url": "https://airtable.com/shrogEtI8tuJZveTn"
+  },
+  {
+    "name": "schedule",
+    "public": false,
+    "url": "https://schedule.innovweek.co"
   }
 ]
