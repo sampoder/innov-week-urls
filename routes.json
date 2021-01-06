@@ -23,5 +23,10 @@
     "name": "schedule",
     "public": false,
     "url": "https://schedule.innovweek.co"
-  }
+  },
+  {
+    "name": "zoom",
+    "public": false,
+    "url": "https://go.sampoder.com/zoom"
+  },
 ]
