@@ -5,6 +5,16 @@
     "url": "https://workshops.hackclub.com/tunes/"
   },
   {
+    "name": "draw",
+    "public": false,
+    "url": "https://draw.innovweek.co"
+  },
+  {
+    "name": "DRAW",
+    "public": false,
+    "url": "https://draw.innovweek.co"
+  },
+  {
     "name": "kit",
     "public": false,
     "url": "https://kit.innovweek.co"
